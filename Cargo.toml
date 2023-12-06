@@ -1,6 +1,6 @@
 [package]
 name = "example"
-version = "1.0.1"
+version = "1.0.2"
 authors = ["Jan Likar <likar.jan@gmail.com>"]
 description = "An example crate, useful for testing purposes and documentation."
 repository = "https://github.com/JanLikar/example_crate"
